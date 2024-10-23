@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/github/license/Xellor-Dev/Discord-Bot)
 
 ## Description
-A Python-based Discord bot for managing and interacting with your server.
+A Python-based Discord bot tailored for Linux communities. This bot features profile management, package search on AUR, and Linux command tips, enhancing user interaction and server management.
 
 ## Features
 - **Automated Moderation:** Automatically manages server activities and sends status updates when the bot is online.
