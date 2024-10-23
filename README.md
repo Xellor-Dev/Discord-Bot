@@ -6,28 +6,36 @@
 A Python-based Discord bot for managing and interacting with your server.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- **Automated Moderation:** Automatically manages server activities and sends status updates when the bot is online.
+- **Profile Management:** Allows users to create and update their profiles with various details including distro, DE/WM, browser, terminal, editor, programming language, shell, description, and image URL.
+- **Badge Management:** Users can earn and display badges, which are stored and managed within the database.
+- **Customizable Commands:** The bot supports various custom commands by loading extensions from different cogs (e.g., bot_info, linux, profiles, other).
+- **Database Integration:** Uses SQLite for managing user profiles and badges, ensuring data persistence and consistency.
+- **Presence and Status Updates:** The bot updates its presence and can send messages to a specific channel when it becomes ready, providing real-time status updates to server members.
+- **Easy Extension Management:** The bot can easily load and manage different command sets by using a modular cog system.
 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Xellor-Dev/Discord-Bot.git
    ```
+2. Navigate to the project directory:
+```bash
+cd Discord-Bot
+```
 
-# Navigate to the project directory:
+3. Install the dependencies:
 
-```cd Discord-Bot```
+```bash
+pip install -r requirements.txt
+```
 
-# Install the dependencies:
+## Usage
 
-```pip install -r requirements.txt```
+```bash
+python bot.py
+```
 
-# Usage
-
-```python bot.py```
-
-# License
+## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 ```Feel free to modify and expand upon this template based on your specific needs and features.```
