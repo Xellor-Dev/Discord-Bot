@@ -16,26 +16,25 @@ A Python-based Discord bot for managing and interacting with your server.
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Xellor-Dev/Discord-Bot.git
-   ```
+```bash
+git clone https://github.com/Xellor-Dev/Discord-Bot.git
+```
+
 2. Navigate to the project directory:
 ```bash
 cd Discord-Bot
 ```
 
 3. Install the dependencies:
-
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Usage
-
 ```bash
 python bot.py
 ```
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
-```Feel free to modify and expand upon this template based on your specific needs and features.```
+
