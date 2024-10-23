@@ -1,5 +1,0 @@
-discord.py
-requests
-aiohttp
-aiosqlite
-psutil
